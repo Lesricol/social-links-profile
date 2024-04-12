@@ -1,0 +1,22 @@
+@use '../mixins/hover.scss' as *;
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+.button {
+  font-weight: 700;
+  font-size: 0.875rem;
+  padding: 15px 0;
+  background-color: #333333;
+  border-radius: 0.5rem;
+
+  @include hover {
+    background-color: var(--primary-color);
+    color: black;
+  }
+}

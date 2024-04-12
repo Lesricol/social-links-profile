@@ -1,0 +1,25 @@
+@use '../mixins/responsive.scss' as *;
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  background-color: #1f1f1f;
+  padding: 1.5rem;
+  border-radius: 0.75rem;
+  width: 327px;
+  &__avatar {
+    width: 88px;
+    border-radius: 50%;
+  }
+  &__personal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  @include responsive(laptop) {
+    width: 384px;
+    padding: 40px;
+  }
+}
