@@ -1,6 +1,6 @@
-# Título del proyecto
+Social link profile
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://raw.githubusercontent.com/Lesricol/social-links-profile/main/design%208/desktop-preview.jpg)
 
 ## Ejemplo en vivo
 
@@ -9,11 +9,11 @@
 
 ## Descripción 📑
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+App social
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, ipsum ipsam debitis ducimus dolorum placeat? Consectetur, soluta vero. Accusamus iure est pariatur, doloremque nam cumque natus unde adipisci laborum ut. At id sapiente consequatur earum. Magnam doloribus, voluptate zumito doloremque obcaecati vel excepturi numquam cupiditate ipsam quisquam!
+He aprendido más acerca de sass y trabajar con muchos archivos
 
 ## Tecnologías 🛠
 
@@ -27,17 +27,17 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
+![Captura del proyecto](https://raw.githubusercontent.com/Lesricol/social-links-profile/main/design%208/destkop-design.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/Lesricol/social-links-profile/main/design%208/active-states.jpg)
+![Captura del proyecto](https://raw.githubusercontent.com/Lesricol/social-links-profile/main/design%208/mobile-design.jpg)
 
 ## Autor ✒️
 
 **TU NOMBRE**
 
-- [micorreo@midominio.com](micorreo@midominio.com)
-- [LinkedIn](https://www.linkedin.com/in/tu-url-de-linkedin/)
-- [Porfolio web](https://tu-dominio.com/)
+- [lessricc@gmail.com]
+- [https://www.linkedin.com/in/victor-rico-61b31a300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
 
 ## Instalación
 
